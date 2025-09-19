@@ -3,5 +3,5 @@
 </p>
 
 <h3 align="center">
-  <a href="https:/shellwriter.com/">shellwriter.com</a>
+  <a href="https://shellwriter.com/">shellwriter.com</a>
 </h3>
