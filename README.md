@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/xeWb5J8fqKsAAAAd/tenor.gif" height="200" />
+  <img src="vikramgit.png" height="200" />
 </p>
 
 <h3 align="center">
